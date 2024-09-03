@@ -26,7 +26,7 @@ const Home = () => {
                         <ul className="about-social">
                           <li className="wow fadeIn" data-wow-delay=".4s">
                             <a
-                              href="https://www.linkedin.com/in/sanajitjana01?ref=https://sanajitjana.github.io"
+                              href="https://www.linkedin.com/"
                               target="newtab"
                             >
                               <i
@@ -37,7 +37,7 @@ const Home = () => {
                           </li>
                           <li className="wow fadeIn" data-wow-delay=".2s">
                             <a
-                              href="https://github.com/sanajitjana?ref=https://sanajitjana.github.io"
+                              href="https://github.com/"
                               target="newtab"
                             >
                               <i
@@ -48,7 +48,7 @@ const Home = () => {
                           </li>
                           <li className="wow fadeIn" data-wow-delay=".6s">
                             <a
-                              href="https://www.instagram.com/sanajitjana01?ref=https://sanajitjana.github.io"
+                              href="https://www.instagram.com/"
                               target="newtab"
                             >
                               <i
@@ -59,7 +59,7 @@ const Home = () => {
                           </li>
                           <li className="wow fadeIn" data-wow-delay=".8s">
                             <a
-                              href="https://twitter.com/sanajitjana01?ref=https://sanajitjana.github.io"
+                              href="https://twitter.com/"
                               target="newtab"
                             >
                               <i
@@ -70,7 +70,7 @@ const Home = () => {
                           </li>
                           <li className="wow fadeIn" data-wow-delay="1s">
                             <a
-                              href="https://dev.to/sanajitjana?ref=https://sanajitjana.github.io"
+                              href="https://dev.to/"
                               target="newtab"
                             >
                               <i className="fa fa-book" aria-hidden="true"></i>
